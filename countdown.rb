@@ -20,5 +20,5 @@ def countdown_with_sleep(integer)
   "HAPPY NEW YEAR!"
 end
 
-newer_years = countdown_with_sleep(5)
+newer_years = countdown_with_sleep(10)
 puts newer_years
