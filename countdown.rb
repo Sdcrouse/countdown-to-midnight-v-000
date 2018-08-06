@@ -19,3 +19,6 @@ def countdown_with_sleep(integer)
   end
   "HAPPY NEW YEAR!"
 end
+
+newer_years = countdown_with_sleep(5)
+puts newer_years
