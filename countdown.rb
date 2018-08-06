@@ -8,4 +8,4 @@ def countdown(integer)
   "HAPPY NEW YEAR!"
 end
 
-countdown(10)
+new-years = countdown(10)
